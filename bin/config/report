@@ -1,0 +1,7 @@
+#Properties
+LDAPURL = ldap://localhost:389
+#baseDN = dc=users,dc=com
+UserName = uid=admin,dc,users,dc=com
+UserPassword = Time2move
+
+
